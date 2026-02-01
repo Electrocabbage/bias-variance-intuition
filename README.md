@@ -9,9 +9,6 @@ The goal is to build intuition by:
 - and empirically computing bias and variance.
 
 The project was created as part of a learning process focused on understanding model behavior rather than optimizing performance.
-# bias-variance-intuition
-An intuitive, empirical exploration of the bias–variance tradeoff using synthetic data.
-
 
 ## Key takeaway
 
