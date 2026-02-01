@@ -15,3 +15,15 @@ The project was created as part of a learning process focused on understanding m
 Bias–variance decomposition explains why low-complexity models underfit
 and high-complexity models overfit. An intermediate model complexity
 achieves the best generalization by balancing bias and variance.
+
+## Scope and next steps
+
+The goal of this experiment was not to find the best possible predictive model,
+but to study how model complexity affects bias and variance.
+
+The results suggest that polynomial regression can capture the underlying
+structure of the data with low bias when an appropriate model complexity
+is chosen.
+
+A natural next step would be to compare different model families or introduce
+regularization to control variance for higher-capacity models.
