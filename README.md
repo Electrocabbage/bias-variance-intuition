@@ -11,3 +11,10 @@ The goal is to build intuition by:
 The project was created as part of a learning process focused on understanding model behavior rather than optimizing performance.
 # bias-variance-intuition
 An intuitive, empirical exploration of the bias–variance tradeoff using synthetic data.
+
+
+## Key takeaway
+
+Bias–variance decomposition explains why low-complexity models underfit
+and high-complexity models overfit. An intermediate model complexity
+achieves the best generalization by balancing bias and variance.
